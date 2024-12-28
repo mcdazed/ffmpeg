@@ -13,7 +13,9 @@
 mintty.lnk
 update_suite.sh
 !build/bash.ps1
+!build/*.ini
 !build/*.sh
+!build/*.txt
 !build/patches/
 !build/extras/
 /build/post_suite.sh
