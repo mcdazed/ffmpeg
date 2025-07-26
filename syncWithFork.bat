@@ -3,6 +3,8 @@ set ROOTDIR=%~dp0
 set ROOTDIR=%ROOTDIR:~0,-1%
 for %%I in (.) do set CurrDirName=%%~nxI
 
+start "" "https://neverssl.com/"
+
 echo .
 echo .
 echo .
