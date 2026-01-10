@@ -12,10 +12,10 @@
 
 mintty.lnk
 update_suite.sh
+!build/*.ini
 !build/bash.ps1
-!build/*.sh
-!build/patches/
 !build/extras/
+!build/patches/
 /build/post_suite.sh
 
 ## VS Code
